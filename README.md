@@ -1,5 +1,8 @@
-# Indice:
+# Reducir el input lag:
 
+- El input lag es el tiempo que transcurre entre la acción que realizas en tu dispositivo de juego (teclado, ratón o mando) y la aparición de esa acción en la pantalla. En otras palabras, es el tiempo que tarda tu juego en responder a tus movimientos.
+
+# Indice:
 - [Reducir el input lag:](#reducir-el-input-lag)
 - [Bajar la tasa de sondeo del monitor](#bajar-la-tasa-de-sondeo-del-monitor)
 - [Bajar la tasa de sondeo de los periféricos](#bajar-la-tasa-de-sondeo-de-los-periféricos)
@@ -8,10 +11,6 @@
 - [Activar el anti-lag](#activar-el-anti-lag)
 - [Otras opciones para reducir el input lag](#otras-opciones-para-reducir-el-input-lag)
 - [Herramientas para reducir el input lag](#herramientas-para-input-lag)
-
-# Reducir el input lag:
-
-- El input lag es el tiempo que transcurre entre la acción que realizas en tu dispositivo de juego (teclado, ratón o mando) y la aparición de esa acción en la pantalla. En otras palabras, es el tiempo que tarda tu juego en responder a tus movimientos.
 
 # Bajar la tasa de sondeo del monitor
 
