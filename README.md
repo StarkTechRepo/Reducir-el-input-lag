@@ -72,6 +72,8 @@
 
 - [**Gamepad Tester**](https://gamepad-tester.com/): Esta herramienta te permite medir el input lag de tu mando.
 
+- [*cps-check**](https://cps-check.com/polling-rate-check):Esta herramienta te permite probar la tasa de sondeo del mouse.
+
 Estas herramientas y ajustes te ayudarán a reducir el input lag y mejorar tu experiencia de juego.
 
 ## Licencia
