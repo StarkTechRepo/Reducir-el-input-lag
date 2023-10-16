@@ -2,6 +2,8 @@
 
 - El input lag es el tiempo que transcurre entre la acción que realizas en tu dispositivo de juego (teclado, ratón o mando) y la aparición de esa acción en la pantalla. En otras palabras, es el tiempo que tarda tu juego en responder a tus movimientos.
 
+![Imagen](foto.jpg)
+
 # Indice:
 - [Reducir el input lag:](#reducir-el-input-lag)
 - [Bajar la tasa de sondeo del monitor](#bajar-la-tasa-de-sondeo-del-monitor)
